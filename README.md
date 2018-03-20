@@ -3,6 +3,17 @@
 
 ![Alt Text](https://media.giphy.com/media/HxO2F9PqwF1du/giphy.gif)
 
+## TODOs
+
+### Waypoint Updater Node (Partial)
+
+See topic in classroom [here](https://classroom.udacity.com/nanodegrees/nd013/parts/6047fe34-d93c-4f50-8336-b70ef10cb4b2/modules/e1a23b06-329a-4684-a717-ad476f0d8dff/lessons/462c933d-9f24-42d3-8bdc-a08a5fc866e4/concepts/e1f2a5cf-c697-4880-afb2-b88f3f83d07b)
+
+- [x] Load  `/base_waypoints`
+- [ ] Find the index of the closest waypoint to the car's current position in `self.base_waypoints`
+- [ ] Create a list of the upcoming waypoints
+- [ ] Broadcast upcoming waypoints to `/final_waypoints`
+
 
 This is the project repo for the final project of the Udacity Self-Driving Car Nanodegree: Programming a Real Self-Driving Car. For more information about the project, see the project introduction [here](https://classroom.udacity.com/nanodegrees/nd013/parts/6047fe34-d93c-4f50-8336-b70ef10cb4b2/modules/e1a23b06-329a-4684-a717-ad476f0d8dff/lessons/462c933d-9f24-42d3-8bdc-a08a5fc866e4/concepts/5ab4b122-83e6-436d-850f-9f4d26627fd9).
 
